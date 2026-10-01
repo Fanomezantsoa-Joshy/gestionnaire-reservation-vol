@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/acceuil.png</file>
+        <file>icons/ajout.png</file>
+        <file>icons/avion.png</file>
+        <file>icons/compagnie.png</file>
+        <file>icons/detail.png</file>
+        <file>icons/liste.png</file>
+        <file>icons/madagascar.png</file>
+        <file>icons/menu.png</file>
+        <file>icons/modifier.png</file>
+        <file>icons/modPassager.png</file>
+        <file>icons/nouveauPassager.png</file>
+        <file>icons/passager.png</file>
+        <file>icons/passeport.png</file>
+        <file>icons/quitter.jpeg</file>
+        <file>icons/reservation.png</file>
+        <file>icons/retour.png</file>
+        <file>icons/suivant.png</file>
+        <file>icons/vol.png</file>
+        <file>icons/cacher.svg</file>
+        <file>icons/voir.svg</file>
+    </qresource>
+</RCC>

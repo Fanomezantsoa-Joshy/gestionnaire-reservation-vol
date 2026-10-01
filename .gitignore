@@ -1,0 +1,55 @@
+# ==============================
+# Build / compilation
+# ==============================
+
+build/
+cmake-build-*/
+out/
+debug/
+release/
+
+# ==============================
+# Qt Creator
+# ==============================
+
+CMakeLists.txt.user
+*.pro.user
+*.pro.user.*
+*.creator.user
+
+# ==============================
+# Fichiers temporaires
+# ==============================
+
+*.tmp
+*.temp
+*.log
+*.bak
+*~
+.DS_Store
+Thumbs.db
+
+# ==============================
+# Visual Studio Code
+# ==============================
+
+.vscode/
+
+# ==============================
+# Visual Studio
+# ==============================
+
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ==============================
+# Executables / fichiers compilés
+# ==============================
+
+*.exe
+*.o
+*.obj
+*.a
