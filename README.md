@@ -33,7 +33,7 @@ base_de_donnees/gestion_billets_avion.sql
 5. Importer le fichier gestion_billets_avion.sql dans la base de données créé
 6. Ouvrir le projet avec Qt Creator
 7. Compiler et exécuter
-8. Un compte de simulation est déjà disponnible (Nom : Administrateur, Mot de passe : motdepasse)
+8. Un compte de simulation est déjà disponnible (Nom : Admin, Mot de passe : motdepasse)
 
 ## Aperçu
 
