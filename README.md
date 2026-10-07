@@ -29,12 +29,15 @@ base_de_donnees/gestion_billets_avion.sql
 1. Installer Qt Creator (Cummunity)
 2. Installer MySQL
 3. Cloner le projet
-4. Créer un base de données nommé gestion_billets_avion 
-5. Importer le fichier gestion_billets_avion.sql dans la base de données créé
-6. Ouvrir le projet avec Qt Creator
-7. Compiler et exécuter
-8. Un compte de simulation est déjà disponnible (Nom : Admin, Mot de passe : motdepasse)
+4. Importer le script de la base de données dans database/gestion_billets_avion.sql
+5. Ouvrir le projet avec Qt Creator
+6. Compiler et exécuter
+7. Un compte de teste est déjà disponnible (Nom : Admin, Mot de passe : motdepasse)
 
 ## Aperçu
 
 Des captures d'écran de l'application sont disponibles.
+
+## -- Auteur --
+
+Projet réalisé dans le cadre de ma formation en développement informatique.
