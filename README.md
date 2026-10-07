@@ -22,7 +22,7 @@ Application desktop développée en C++ avec Qt Creator 17.0.1 (Community) et My
 Le projet utilise MySQL.
 
 Le script SQL permettant de créer la base de données se trouve dans :
-base_de_donnees/gestion_billets_avion.sql
+database/gestion_billets_avion.sql
 
 ## Installation
 
